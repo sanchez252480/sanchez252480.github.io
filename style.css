@@ -75,12 +75,12 @@ h2 {
 }
 
 #interests li {
-  color: #20d2f2;
+  color: #f22e20;
   font-size: 1rem;
   font-weight: 600;
   padding: 10px 20px;
-  background: #6ef762f7;
-  border: 1px solid #895fe4;
+  background: #080808f7;
+  border: 1px solid #ff0009;
   border-radius: 100px;
   transition:
     background 0.25s ease,
@@ -131,7 +131,7 @@ nav h1 {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.2em;
-  color: #24efef;
+  color: #64ec57;
 }
 
 #nav-ul {
